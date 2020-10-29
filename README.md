@@ -39,3 +39,6 @@ The venueSearch.py file is the master file of the program. The functions that ar
 
 ## Database Errors
 If any errors occur during the processiong of the venue search algorithm try again after deleting the venue.db database file from your directory. A fresh database will be created automaticly.
+
+## Create Documentation
+If a documentation of the code should be created in the future the schema.py file, the main part of the programm, is documented with doc strings according to the Numpy standard. That makes the automatic creation of a Documentation with the SPHINX Python Documentation Generator https://www.sphinx-doc.org/en/master/
