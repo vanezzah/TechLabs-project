@@ -27,9 +27,8 @@ To redefine the search parameters make changes in the userRequest.json file that
 }
 ```
 
-
-## 
-The venueSearch.py file is the master file of the program. The functions that
+## Short description of the program structure
+The venueSearch.py file is the master file of the program. The functions that are being used for the search algorithm are organized as a toolbox that is defined in schema.py. This file contains classes that are used partly used to define a SQLAlchemy database structure that could be connected to a User Interface. Additionally to that all operational funcionalitys of the venue search algorithm are defined as methods of the classes and so are oredered and documented.
 
 ## Database Errors
 If any errors occur during the processiong of the venue search algorithm try again after deleting the venue.db database file from your directory. A fresh database will be created automaticly.
