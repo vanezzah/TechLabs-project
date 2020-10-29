@@ -14,7 +14,8 @@ Our solution allows people to make data and fact driven decisions regarding rest
   - matplotlib
 
 ### Execute Algorithm
-After pulling the master branch you could execute the venue search algorithm by running the venueSearch.py file. The algorithm will use the examplary user request that is defined in the userRequest.json file. To redefine 
+After pulling the master branch you could execute the venue search algorithm by running the venueSearch.py file. The algorithm will use the examplary user request that is defined in the userRequest.json file. To redefine the search parameters 
+{"request_ID": "277f7sk392h", "datetime": "2020-11-01 18:00:00", "lat": 52.5186, "lng": 13.401552, "search_radius": 2, "search_input": "restaurant"}
 
 ## 
 The venueSearch.py file is the master file of the program. The functions that
