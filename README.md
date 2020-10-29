@@ -1,3 +1,5 @@
-# TechLabs-project
+# StartDistancing
+Our solution allows people to make data and fact driven decisions regarding restaurant choices during the covid-19 crisis and enables smart social distancing. Our solution takes in several arguments from the user, such as his current location, the date and time at which he wants to go out and the preferred restaurant category.The algorithm makes an API call to Foursquare to find restaurants in the area and filters the results to show the restaurants that are open and not busy at that time (meaning that the time given is not inside the popular hours timeframe returned by the API). After some data cleaning, it then filters therestaurants by category and orders them by distance to the user. They are plotted on a map and a visualization of opening and popular hours is shown. If there are not enough results, suitable venues for slightly different times are searched.Additionally, the covid-19 data for the area is shown to raise awareness of the current situation and to make it easier for the user to assess if he should go out at all. This information is retrieved through the data published by the RKI and matched with the user’s administrative area
+
 ## Get started
 After downloading the 
