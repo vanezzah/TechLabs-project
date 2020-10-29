@@ -1,0 +1,413 @@
+,GEN,BEZ,county,BL,googlemaps_key
+0,Flensburg,Kreisfreie Stadt,SK Flensburg,Schleswig-Holstein,Flensburg
+1,Kiel,Kreisfreie Stadt,SK Kiel,Schleswig-Holstein,Kiel
+2,Lübeck,Kreisfreie Stadt,SK Lübeck,Schleswig-Holstein,Lübeck
+3,Neumünster,Kreisfreie Stadt,SK Neumünster,Schleswig-Holstein,Neumünster
+4,Dithmarschen,Kreis,LK Dithmarschen,Schleswig-Holstein,Dithmarschen
+5,Herzogtum Lauenburg,Kreis,LK Herzogtum Lauenburg,Schleswig-Holstein,Herzogtum Lauenburg
+6,Nordfriesland,Kreis,LK Nordfriesland,Schleswig-Holstein,Nordfriesland
+7,Ostholstein,Kreis,LK Ostholstein,Schleswig-Holstein,Ostholstein
+8,Pinneberg,Kreis,LK Pinneberg,Schleswig-Holstein,Pinneberg
+9,Plön,Kreis,LK Plön,Schleswig-Holstein,Plön
+10,Rendsburg-Eckernförde,Kreis,LK Rendsburg-Eckernförde,Schleswig-Holstein,Rendsburg-Eckernförde
+11,Schleswig-Flensburg,Kreis,LK Schleswig-Flensburg,Schleswig-Holstein,Schleswig-Flensburg
+12,Segeberg,Kreis,LK Segeberg,Schleswig-Holstein,Segeberg
+13,Steinburg,Kreis,LK Steinburg,Schleswig-Holstein,Steinburg
+14,Stormarn,Kreis,LK Stormarn,Schleswig-Holstein,Stormarn
+15,Hamburg,Kreisfreie Stadt,SK Hamburg,Hamburg,Hamburg
+16,Braunschweig,Kreisfreie Stadt,SK Braunschweig,Niedersachsen,Brunswick
+17,Salzgitter,Kreisfreie Stadt,SK Salzgitter,Niedersachsen,Salzgitter
+18,Wolfsburg,Kreisfreie Stadt,SK Wolfsburg,Niedersachsen,Wolfsburg
+19,Gifhorn,Landkreis,LK Gifhorn,Niedersachsen,Gifhorn
+20,Goslar,Landkreis,LK Goslar,Niedersachsen,Goslar
+21,Helmstedt,Landkreis,LK Helmstedt,Niedersachsen,Helmstedt
+22,Northeim,Landkreis,LK Northeim,Niedersachsen,Northeim
+23,Peine,Landkreis,LK Peine,Niedersachsen,Boise
+24,Wolfenbüttel,Landkreis,LK Wolfenbüttel,Niedersachsen,Wolfenbüttel
+25,Göttingen,Landkreis,LK Göttingen,Niedersachsen,Göttingen
+26,Region Hannover,Landkreis,Region Hannover,Niedersachsen,Hanover Region
+27,Diepholz,Landkreis,LK Diepholz,Niedersachsen,Charleston Township
+28,Hameln-Pyrmont,Landkreis,LK Hameln-Pyrmont,Niedersachsen,Hamelin-Pyrmont
+29,Hildesheim,Landkreis,LK Hildesheim,Niedersachsen,Hildesheim
+30,Holzminden,Landkreis,LK Holzminden,Niedersachsen,Holzminden
+31,Nienburg (Weser),Landkreis,LK Nienburg (Weser),Niedersachsen,Nienburg/Weser
+32,Schaumburg,Landkreis,LK Schaumburg,Niedersachsen,Schaumburg Township
+33,Celle,Landkreis,LK Celle,Niedersachsen,Celle
+34,Cuxhaven,Landkreis,LK Cuxhaven,Niedersachsen,Cuxhaven
+35,Harburg,Landkreis,LK Harburg,Niedersachsen,Hamburg
+36,Lüchow-Dannenberg,Landkreis,LK Lüchow-Dannenberg,Niedersachsen,Lüchow-Dannenberg
+37,Lüneburg,Landkreis,LK Lüneburg,Niedersachsen,Lüneburg
+38,Osterholz,Landkreis,LK Osterholz,Niedersachsen,Osterholz
+39,Rotenburg (Wümme),Landkreis,LK Rotenburg (Wümme),Niedersachsen,Rotenburg (Wümme)
+40,Heidekreis,Landkreis,LK Heidekreis,Niedersachsen,Heidekreis
+41,Stade,Landkreis,LK Stade,Niedersachsen,Stade
+42,Uelzen,Landkreis,LK Uelzen,Niedersachsen,Uelzen
+43,Verden,Landkreis,LK Verden,Niedersachsen,Verden
+44,Delmenhorst,Kreisfreie Stadt,SK Delmenhorst,Niedersachsen,Delmenhorst
+45,Emden,Kreisfreie Stadt,SK Emden,Niedersachsen,Emden
+46,Oldenburg (Oldb),Kreisfreie Stadt,SK Oldenburg,Niedersachsen,Oldenburg
+47,Osnabrück,Kreisfreie Stadt,SK Osnabrück,Niedersachsen,Osnabrück
+48,Wilhelmshaven,Kreisfreie Stadt,SK Wilhelmshaven,Niedersachsen,Wilhelmshaven
+49,Ammerland,Landkreis,LK Ammerland,Niedersachsen,Ammerland
+50,Aurich,Landkreis,LK Aurich,Niedersachsen,Aurich
+51,Cloppenburg,Landkreis,LK Cloppenburg,Niedersachsen,Cloppenburg
+52,Emsland,Landkreis,LK Emsland,Niedersachsen,Emsland
+53,Friesland,Landkreis,LK Friesland,Niedersachsen,
+54,Grafschaft Bentheim,Landkreis,LK Grafschaft Bentheim,Niedersachsen,County of Bentheim
+55,Leer,Landkreis,LK Leer,Niedersachsen,Baugo Township
+56,Oldenburg,Landkreis,LK Oldenburg,Niedersachsen,Oldenburg
+57,Osnabrück,Landkreis,LK Osnabrück,Niedersachsen,Osnabrück
+58,Vechta,Landkreis,LK Vechta,Niedersachsen,Vechta
+59,Wesermarsch,Landkreis,LK Wesermarsch,Niedersachsen,Wesermarsch
+60,Wittmund,Landkreis,LK Wittmund,Niedersachsen,Wittmund
+61,Bremen,Kreisfreie Stadt,SK Bremen,Bremen,Bremen
+62,Bremerhaven,Kreisfreie Stadt,SK Bremerhaven,Bremen,Bremerhaven
+63,Düsseldorf,Kreisfreie Stadt,SK Düsseldorf,Nordrhein-Westfalen,Düsseldorf
+64,Duisburg,Kreisfreie Stadt,SK Duisburg,Nordrhein-Westfalen,Duisburg
+65,Essen,Kreisfreie Stadt,SK Essen,Nordrhein-Westfalen,Essen
+66,Krefeld,Kreisfreie Stadt,SK Krefeld,Nordrhein-Westfalen,Krefeld
+67,Mönchengladbach,Kreisfreie Stadt,SK Mönchengladbach,Nordrhein-Westfalen,Mönchengladbach
+68,Mülheim an der Ruhr,Kreisfreie Stadt,SK Mülheim a.d.Ruhr,Nordrhein-Westfalen,Mülheim
+69,Oberhausen,Kreisfreie Stadt,SK Oberhausen,Nordrhein-Westfalen,Oberhausen
+70,Remscheid,Kreisfreie Stadt,SK Remscheid,Nordrhein-Westfalen,Remscheid
+71,Solingen,Kreisfreie Stadt,SK Solingen,Nordrhein-Westfalen,Solingen
+72,Wuppertal,Kreisfreie Stadt,SK Wuppertal,Nordrhein-Westfalen,Wuppertal
+73,Kleve,Kreis,LK Kleve,Nordrhein-Westfalen,Kleve
+74,Mettmann,Kreis,LK Mettmann,Nordrhein-Westfalen,Mettmann
+75,Rhein-Kreis Neuss,Kreis,LK Rhein-Kreis Neuss,Nordrhein-Westfalen,Rhein-Kreis Neuss
+76,Viersen,Kreis,LK Viersen,Nordrhein-Westfalen,Viersen
+77,Wesel,Kreis,LK Wesel,Nordrhein-Westfalen,Wesel
+78,Bonn,Kreisfreie Stadt,SK Bonn,Nordrhein-Westfalen,Bonn
+79,Köln,Kreisfreie Stadt,SK Köln,Nordrhein-Westfalen,Cologne
+80,Leverkusen,Kreisfreie Stadt,SK Leverkusen,Nordrhein-Westfalen,Leverkusen
+81,Städteregion Aachen,Kreis,StadtRegion Aachen,Nordrhein-Westfalen,Aachen
+82,Düren,Kreis,LK Düren,Nordrhein-Westfalen,Düren
+83,Rhein-Erft-Kreis,Kreis,LK Rhein-Erft-Kreis,Nordrhein-Westfalen,Rhein-Erft-Kreis
+84,Euskirchen,Kreis,LK Euskirchen,Nordrhein-Westfalen,Euskirchen
+85,Heinsberg,Kreis,LK Heinsberg,Nordrhein-Westfalen,Heinsberg
+86,Oberbergischer Kreis,Kreis,LK Oberbergischer Kreis,Nordrhein-Westfalen,Oberbergischer
+87,Rheinisch-Bergischer Kreis,Kreis,LK Rheinisch-Bergischer Kreis,Nordrhein-Westfalen,Rheinisch-Bergischer Kreis
+88,Rhein-Sieg-Kreis,Kreis,LK Rhein-Sieg-Kreis,Nordrhein-Westfalen,Rhein-Sieg-Kreis
+89,Bottrop,Kreisfreie Stadt,SK Bottrop,Nordrhein-Westfalen,Bottrop
+90,Gelsenkirchen,Kreisfreie Stadt,SK Gelsenkirchen,Nordrhein-Westfalen,Gelsenkirchen
+91,Münster,Kreisfreie Stadt,SK Münster,Nordrhein-Westfalen,Münster
+92,Borken,Kreis,LK Borken,Nordrhein-Westfalen,Borken
+93,Coesfeld,Kreis,LK Coesfeld,Nordrhein-Westfalen,Coesfeld
+94,Recklinghausen,Kreis,LK Recklinghausen,Nordrhein-Westfalen,Recklinghausen
+95,Steinfurt,Kreis,LK Steinfurt,Nordrhein-Westfalen,Steinfurt
+96,Warendorf,Kreis,LK Warendorf,Nordrhein-Westfalen,Warendorf
+97,Bielefeld,Kreisfreie Stadt,SK Bielefeld,Nordrhein-Westfalen,Bielefeld
+98,Gütersloh,Kreis,LK Gütersloh,Nordrhein-Westfalen,Gütersloh
+99,Herford,Kreis,LK Herford,Nordrhein-Westfalen,Herford
+100,Höxter,Kreis,LK Höxter,Nordrhein-Westfalen,Höxter
+101,Lippe,Kreis,LK Lippe,Nordrhein-Westfalen,Lippe
+102,Minden-Lübbecke,Kreis,LK Minden-Lübbecke,Nordrhein-Westfalen,Minden-Lübbecke
+103,Paderborn,Kreis,LK Paderborn,Nordrhein-Westfalen,Paderborn
+104,Bochum,Kreisfreie Stadt,SK Bochum,Nordrhein-Westfalen,Bochum
+105,Dortmund,Kreisfreie Stadt,SK Dortmund,Nordrhein-Westfalen,Dortmund
+106,Hagen,Kreisfreie Stadt,SK Hagen,Nordrhein-Westfalen,Hagen
+107,Hamm,Kreisfreie Stadt,SK Hamm,Nordrhein-Westfalen,Hamm
+108,Herne,Kreisfreie Stadt,SK Herne,Nordrhein-Westfalen,Boca Raton
+109,Ennepe-Ruhr-Kreis,Kreis,LK Ennepe-Ruhr-Kreis,Nordrhein-Westfalen,Ennepe-Ruhr-Kreis
+110,Hochsauerlandkreis,Kreis,LK Hochsauerlandkreis,Nordrhein-Westfalen,Hochsauerlandkreis
+111,Märkischer Kreis,Kreis,LK Märkischer Kreis,Nordrhein-Westfalen,Märkischer
+112,Olpe,Kreis,LK Olpe,Nordrhein-Westfalen,Olpe
+113,Siegen-Wittgenstein,Kreis,LK Siegen-Wittgenstein,Nordrhein-Westfalen,Siegen-Wittgenstein
+114,Soest,Kreis,LK Soest,Nordrhein-Westfalen,Soest
+115,Unna,Kreis,LK Unna,Nordrhein-Westfalen,Unna
+116,Darmstadt,Kreisfreie Stadt,SK Darmstadt,Hessen,Darmstadt
+117,Frankfurt am Main,Kreisfreie Stadt,SK Frankfurt am Main,Hessen,Frankfurt
+118,Offenbach am Main,Kreisfreie Stadt,SK Offenbach,Hessen,Offenbach
+119,Wiesbaden,Kreisfreie Stadt,SK Wiesbaden,Hessen,Wiesbaden
+120,Bergstraße,Landkreis,LK Bergstraße,Hessen,Bergstraße
+121,Darmstadt-Dieburg,Landkreis,LK Darmstadt-Dieburg,Hessen,Darmstadt-Dieburg
+122,Groß-Gerau,Landkreis,LK Groß-Gerau,Hessen,Groß-Gerau
+123,Hochtaunuskreis,Landkreis,LK Hochtaunuskreis,Hessen,Hochtaunuskreis
+124,Main-Kinzig-Kreis,Landkreis,LK Main-Kinzig-Kreis,Hessen,Main-Kinzig-Kreis
+125,Main-Taunus-Kreis,Landkreis,LK Main-Taunus-Kreis,Hessen,Main-Taunus
+126,Odenwaldkreis,Landkreis,LK Odenwaldkreis,Hessen,Odenwaldkreis
+127,Offenbach,Landkreis,LK Offenbach,Hessen,Offenbach
+128,Rheingau-Taunus-Kreis,Landkreis,LK Rheingau-Taunus-Kreis,Hessen,Rheingau-Taunus-Kreis
+129,Wetteraukreis,Landkreis,LK Wetteraukreis,Hessen,Wetteraukreis
+130,Gießen,Landkreis,LK Gießen,Hessen,Giessen
+131,Lahn-Dill-Kreis,Landkreis,LK Lahn-Dill-Kreis,Hessen,Lahn-Dill
+132,Limburg-Weilburg,Landkreis,LK Limburg-Weilburg,Hessen,Limburg-Weilburg
+133,Marburg-Biedenkopf,Landkreis,LK Marburg-Biedenkopf,Hessen,Marburg-Biedenkopf
+134,Vogelsbergkreis,Landkreis,LK Vogelsbergkreis,Hessen,Vogelsbergkreis
+135,Kassel,Kreisfreie Stadt,SK Kassel,Hessen,Kassel
+136,Fulda,Landkreis,LK Fulda,Hessen,Fulda
+137,Hersfeld-Rotenburg,Landkreis,LK Hersfeld-Rotenburg,Hessen,Hersfeld-Rotenburg
+138,Kassel,Landkreis,LK Kassel,Hessen,Kassel
+139,Schwalm-Eder-Kreis,Landkreis,LK Schwalm-Eder-Kreis,Hessen,Schwalm-Eder-Kreis
+140,Waldeck-Frankenberg,Landkreis,LK Waldeck-Frankenberg,Hessen,Waldeck-Frankenberg
+141,Werra-Meißner-Kreis,Landkreis,LK Werra-Meißner-Kreis,Hessen,Werra-Meißner-Kreis
+142,Koblenz,Kreisfreie Stadt,SK Koblenz,Rheinland-Pfalz,Koblenz
+143,Ahrweiler,Landkreis,LK Ahrweiler,Rheinland-Pfalz,Ahrweiler
+144,Altenkirchen (Westerwald),Landkreis,LK Altenkirchen,Rheinland-Pfalz,Altenkirchen
+145,Bad Kreuznach,Landkreis,LK Bad Kreuznach,Rheinland-Pfalz,Bad Kreuznach
+146,Birkenfeld,Landkreis,LK Birkenfeld,Rheinland-Pfalz,Birkenfeld
+147,Cochem-Zell,Landkreis,LK Cochem-Zell,Rheinland-Pfalz,Cochem-Zell
+148,Mayen-Koblenz,Landkreis,LK Mayen-Koblenz,Rheinland-Pfalz,Mayen-Koblenz
+149,Neuwied,Landkreis,LK Neuwied,Rheinland-Pfalz,Neuwied
+150,Rhein-Hunsrück-Kreis,Landkreis,LK Rhein-Hunsrück-Kreis,Rheinland-Pfalz,Rhein-Hunsrück
+151,Rhein-Lahn-Kreis,Landkreis,LK Rhein-Lahn-Kreis,Rheinland-Pfalz,Rhein-Lahn-Kreis
+152,Westerwaldkreis,Landkreis,LK Westerwaldkreis,Rheinland-Pfalz,Westerwaldkreis
+153,Trier,Kreisfreie Stadt,SK Trier,Rheinland-Pfalz,Trier
+154,Bernkastel-Wittlich,Landkreis,LK Bernkastel-Wittlich,Rheinland-Pfalz,Bernkastel-Wittlich
+155,Eifelkreis Bitburg-Prüm,Landkreis,LK Bitburg-Prüm,Rheinland-Pfalz,Bitburg-Prüm
+156,Vulkaneifel,Landkreis,LK Vulkaneifel,Rheinland-Pfalz,Vulkaneifel
+157,Trier-Saarburg,Landkreis,LK Trier-Saarburg,Rheinland-Pfalz,Trier-Saarburg
+158,Frankenthal (Pfalz),Kreisfreie Stadt,SK Frankenthal,Rheinland-Pfalz,Frankenthal
+159,Kaiserslautern,Kreisfreie Stadt,SK Kaiserslautern,Rheinland-Pfalz,Kaiserslautern
+160,Landau in der Pfalz,Kreisfreie Stadt,SK Landau i.d.Pfalz,Rheinland-Pfalz,Landau
+161,Ludwigshafen am Rhein,Kreisfreie Stadt,SK Ludwigshafen,Rheinland-Pfalz,Ludwigshafen
+162,Mainz,Kreisfreie Stadt,SK Mainz,Rheinland-Pfalz,Mainz
+163,Neustadt an der Weinstraße,Kreisfreie Stadt,SK Neustadt a.d.Weinstraße,Rheinland-Pfalz,Neustadt
+164,Pirmasens,Kreisfreie Stadt,SK Pirmasens,Rheinland-Pfalz,Pirmasens
+165,Speyer,Kreisfreie Stadt,SK Speyer,Rheinland-Pfalz,Speyer
+166,Worms,Kreisfreie Stadt,SK Worms,Rheinland-Pfalz,Worms
+167,Zweibrücken,Kreisfreie Stadt,SK Zweibrücken,Rheinland-Pfalz,Zweibrücken
+168,Alzey-Worms,Landkreis,LK Alzey-Worms,Rheinland-Pfalz,Alzey-Worms
+169,Bad Dürkheim,Landkreis,LK Bad Dürkheim,Rheinland-Pfalz,Bad Dürkheim
+170,Donnersbergkreis,Landkreis,LK Donnersbergkreis,Rheinland-Pfalz,Donnersbergkreis
+171,Germersheim,Landkreis,LK Germersheim,Rheinland-Pfalz,Germersheim
+172,Kaiserslautern,Landkreis,LK Kaiserslautern,Rheinland-Pfalz,Kaiserslautern
+173,Kusel,Landkreis,LK Kusel,Rheinland-Pfalz,Kusel
+174,Südliche Weinstraße,Landkreis,LK Südliche Weinstraße,Rheinland-Pfalz,Südliche Weinstraße
+175,Rhein-Pfalz-Kreis,Landkreis,LK Rhein-Pfalz-Kreis,Rheinland-Pfalz,Rhein-Pfalz-Kreis
+176,Mainz-Bingen,Landkreis,LK Mainz-Bingen,Rheinland-Pfalz,Mainz-Bingen
+177,Südwestpfalz,Landkreis,LK Südwestpfalz,Rheinland-Pfalz,Südwestpfalz
+178,Stuttgart,Stadtkreis,SK Stuttgart,Baden-Württemberg,Stuttgart
+179,Böblingen,Landkreis,LK Böblingen,Baden-Württemberg,Böblingen
+180,Esslingen,Landkreis,LK Esslingen,Baden-Württemberg,Esslingen
+181,Göppingen,Landkreis,LK Göppingen,Baden-Württemberg,Göppingen
+182,Ludwigsburg,Landkreis,LK Ludwigsburg,Baden-Württemberg,Ludwigsburg
+183,Rems-Murr-Kreis,Landkreis,LK Rems-Murr-Kreis,Baden-Württemberg,Rems-Murr
+184,Heilbronn,Stadtkreis,SK Heilbronn,Baden-Württemberg,Heilbronn
+185,Heilbronn,Landkreis,LK Heilbronn,Baden-Württemberg,Heilbronn
+186,Hohenlohekreis,Landkreis,LK Hohenlohekreis,Baden-Württemberg,Hohenlohe
+187,Schwäbisch Hall,Landkreis,LK Schwäbisch Hall,Baden-Württemberg,Schwäbisch Hall
+188,Main-Tauber-Kreis,Landkreis,LK Main-Tauber-Kreis,Baden-Württemberg,Main-Tauber-Kreis
+189,Heidenheim,Landkreis,LK Heidenheim,Baden-Württemberg,Heidenheim
+190,Ostalbkreis,Landkreis,LK Ostalbkreis,Baden-Württemberg,Ostalbkreis
+191,Baden-Baden,Stadtkreis,SK Baden-Baden,Baden-Württemberg,Baden-Baden
+192,Karlsruhe,Stadtkreis,SK Karlsruhe,Baden-Württemberg,Karlsruhe
+193,Karlsruhe,Landkreis,LK Karlsruhe,Baden-Württemberg,Karlsruhe
+194,Rastatt,Landkreis,LK Rastatt,Baden-Württemberg,Rastatt
+195,Heidelberg,Stadtkreis,SK Heidelberg,Baden-Württemberg,Heidelberg
+196,Mannheim,Stadtkreis,SK Mannheim,Baden-Württemberg,Mannheim
+197,Neckar-Odenwald-Kreis,Landkreis,LK Neckar-Odenwald-Kreis,Baden-Württemberg,Neckar-Odenwald-Kreis
+198,Rhein-Neckar-Kreis,Landkreis,LK Rhein-Neckar-Kreis,Baden-Württemberg,Rhein-Neckar-Kreis
+199,Pforzheim,Stadtkreis,SK Pforzheim,Baden-Württemberg,Pforzheim
+200,Calw,Landkreis,LK Calw,Baden-Württemberg,Calw
+201,Enzkreis,Landkreis,LK Enzkreis,Baden-Württemberg,Enzkreis
+202,Freudenstadt,Landkreis,LK Freudenstadt,Baden-Württemberg,Freudenstadt
+203,Freiburg im Breisgau,Stadtkreis,SK Freiburg i.Breisgau,Baden-Württemberg,Freiburg im Breisgau
+204,Breisgau-Hochschwarzwald,Landkreis,LK Breisgau-Hochschwarzwald,Baden-Württemberg,Breisgau-Hochschwarzwald
+205,Emmendingen,Landkreis,LK Emmendingen,Baden-Württemberg,Emmendingen
+206,Ortenaukreis,Landkreis,LK Ortenaukreis,Baden-Württemberg,Ortenau
+207,Rottweil,Landkreis,LK Rottweil,Baden-Württemberg,Rottweil
+208,Schwarzwald-Baar-Kreis,Landkreis,LK Schwarzwald-Baar-Kreis,Baden-Württemberg,Schwarzwald-Baar
+209,Tuttlingen,Landkreis,LK Tuttlingen,Baden-Württemberg,Tuttlingen
+210,Konstanz,Landkreis,LK Konstanz,Baden-Württemberg,Konstanz
+211,Lörrach,Landkreis,LK Lörrach,Baden-Württemberg,Lörrach
+212,Waldshut,Landkreis,LK Waldshut,Baden-Württemberg,Waldshut
+213,Reutlingen,Landkreis,LK Reutlingen,Baden-Württemberg,Reutlingen
+214,Tübingen,Landkreis,LK Tübingen,Baden-Württemberg,Tübingen
+215,Zollernalbkreis,Landkreis,LK Zollernalbkreis,Baden-Württemberg,Zollernalbkreis
+216,Ulm,Stadtkreis,SK Ulm,Baden-Württemberg,Monroe
+217,Alb-Donau-Kreis,Landkreis,LK Alb-Donau-Kreis,Baden-Württemberg,Alb-Donau-Kreis
+218,Biberach,Landkreis,LK Biberach,Baden-Württemberg,Biberach
+219,Bodenseekreis,Landkreis,LK Bodenseekreis,Baden-Württemberg,Bodensee
+220,Ravensburg,Landkreis,LK Ravensburg,Baden-Württemberg,Ravensburg
+221,Sigmaringen,Landkreis,LK Sigmaringen,Baden-Württemberg,Sigmaringen
+222,Ingolstadt,Kreisfreie Stadt,SK Ingolstadt,Bayern,Ingolstadt
+223,München,Kreisfreie Stadt,SK München,Bayern,Munich
+224,Rosenheim,Kreisfreie Stadt,SK Rosenheim,Bayern,Rosenheim
+225,Altötting,Landkreis,LK Altötting,Bayern,Altötting
+226,Berchtesgadener Land,Landkreis,LK Berchtesgadener Land,Bayern,Berchtesgadener Land
+227,Bad Tölz-Wolfratshausen,Landkreis,LK Bad Tölz-Wolfratshausen,Bayern,Bad Tölz-Wolfratshausen
+228,Dachau,Landkreis,LK Dachau,Bayern,Dachau
+229,Ebersberg,Landkreis,LK Ebersberg,Bayern,Ebersberg
+230,Eichstätt,Landkreis,LK Eichstätt,Bayern,Eichstätt
+231,Erding,Landkreis,LK Erding,Bayern,Erding
+232,Freising,Landkreis,LK Freising,Bayern,Freising
+233,Fürstenfeldbruck,Landkreis,LK Fürstenfeldbruck,Bayern,Fürstenfeldbruck
+234,Garmisch-Partenkirchen,Landkreis,LK Garmisch-Partenkirchen,Bayern,Garmisch-Partenkirchen
+235,Landsberg am Lech,Landkreis,LK Landsberg a.Lech,Bayern,Landsberg
+236,Miesbach,Landkreis,LK Miesbach,Bayern,Miesbach
+237,Mühldorf a. Inn,Landkreis,LK Mühldorf a.Inn,Bayern,Mühldorf
+238,München,Landkreis,LK München,Bayern,Munich
+239,Neuburg-Schrobenhausen,Landkreis,LK Neuburg-Schrobenhausen,Bayern,Neuburg-Schrobenhausen
+240,Pfaffenhofen a.d. Ilm,Landkreis,LK Pfaffenhofen a.d.Ilm,Bayern,Pfaffenhofen
+241,Rosenheim,Landkreis,LK Rosenheim,Bayern,Rosenheim
+242,Starnberg,Landkreis,LK Starnberg,Bayern,Starnberg
+243,Traunstein,Landkreis,LK Traunstein,Bayern,Traunstein
+244,Weilheim-Schongau,Landkreis,LK Weilheim-Schongau,Bayern,Weilheim-Schongau
+245,Landshut,Kreisfreie Stadt,SK Landshut,Bayern,Landshut
+246,Passau,Kreisfreie Stadt,SK Passau,Bayern,Passau
+247,Straubing,Kreisfreie Stadt,SK Straubing,Bayern,Straubing
+248,Deggendorf,Landkreis,LK Deggendorf,Bayern,Deggendorf
+249,Freyung-Grafenau,Landkreis,LK Freyung-Grafenau,Bayern,Freyung-Grafenau
+250,Kelheim,Landkreis,LK Kelheim,Bayern,Kelheim
+251,Landshut,Landkreis,LK Landshut,Bayern,Landshut
+252,Passau,Landkreis,LK Passau,Bayern,Passau
+253,Regen,Landkreis,LK Regen,Bayern,
+254,Rottal-Inn,Landkreis,LK Rottal-Inn,Bayern,Rottal-Inn
+255,Straubing-Bogen,Landkreis,LK Straubing-Bogen,Bayern,Straubing-Bogen
+256,Dingolfing-Landau,Landkreis,LK Dingolfing-Landau,Bayern,Dingolfing-Landau
+257,Amberg,Kreisfreie Stadt,SK Amberg,Bayern,Amberg
+258,Regensburg,Kreisfreie Stadt,SK Regensburg,Bayern,Regensburg
+259,Weiden i.d. OPf.,Kreisfreie Stadt,SK Weiden i.d.OPf.,Bayern,Weiden
+260,Amberg-Sulzbach,Landkreis,LK Amberg-Sulzbach,Bayern,Amberg-Sulzbach
+261,Cham,Landkreis,LK Cham,Bayern,Seattle
+262,Neumarkt i.d. OPf.,Landkreis,LK Neumarkt i.d.OPf.,Bayern,Neumarkt
+263,Neustadt a.d. Waldnaab,Landkreis,LK Neustadt a.d.Waldnaab,Bayern,Neustadt an der Waldnaab
+264,Regensburg,Landkreis,LK Regensburg,Bayern,Regensburg
+265,Schwandorf,Landkreis,LK Schwandorf,Bayern,Schwandorf
+266,Tirschenreuth,Landkreis,LK Tirschenreuth,Bayern,Tirschenreuth
+267,Bamberg,Kreisfreie Stadt,SK Bamberg,Bayern,Bamberg
+268,Bayreuth,Kreisfreie Stadt,SK Bayreuth,Bayern,Bayreuth
+269,Coburg,Kreisfreie Stadt,SK Coburg,Bayern,Coburg
+270,Hof,Kreisfreie Stadt,SK Hof,Bayern,Hof
+271,Bamberg,Landkreis,LK Bamberg,Bayern,Bamberg
+272,Bayreuth,Landkreis,LK Bayreuth,Bayern,Bayreuth
+273,Coburg,Landkreis,LK Coburg,Bayern,Coburg
+274,Forchheim,Landkreis,LK Forchheim,Bayern,Forchheim
+275,Hof,Landkreis,LK Hof,Bayern,Hof
+276,Kronach,Landkreis,LK Kronach,Bayern,Kronach
+277,Kulmbach,Landkreis,LK Kulmbach,Bayern,Kulmbach
+278,Lichtenfels,Landkreis,LK Lichtenfels,Bayern,Lichtenfels
+279,Wunsiedel i. Fichtelgebirge,Landkreis,LK Wunsiedel i.Fichtelgebirge,Bayern,Wunsiedel
+280,Ansbach,Kreisfreie Stadt,SK Ansbach,Bayern,Ansbach
+281,Erlangen,Kreisfreie Stadt,SK Erlangen,Bayern,Erlangen
+282,Fürth,Kreisfreie Stadt,SK Fürth,Bayern,Fürth
+283,Nürnberg,Kreisfreie Stadt,SK Nürnberg,Bayern,Nuremberg
+284,Schwabach,Kreisfreie Stadt,SK Schwabach,Bayern,Schwabach
+285,Ansbach,Landkreis,LK Ansbach,Bayern,Ansbach
+286,Erlangen-Höchstadt,Landkreis,LK Erlangen-Höchstadt,Bayern,Erlangen-Höchstadt
+287,Fürth,Landkreis,LK Fürth,Bayern,Fürth
+288,Nürnberger Land,Landkreis,LK Nürnberger Land,Bayern,Nürnberger Land
+289,Neustadt a.d. Aisch-Bad Windsheim,Landkreis,LK Neustadt a.d.Aisch-Bad Windsheim,Bayern,Landkreis Neustadt a.d.Aisch-Bad Windsheim
+290,Roth,Landkreis,LK Roth,Bayern,Cache Precinct
+291,Weißenburg-Gunzenhausen,Landkreis,LK Weißenburg-Gunzenhausen,Bayern,Weißenburg-Gunzenhausen
+292,Aschaffenburg,Kreisfreie Stadt,SK Aschaffenburg,Bayern,Aschaffenburg
+293,Schweinfurt,Kreisfreie Stadt,SK Schweinfurt,Bayern,Schweinfurt
+294,Würzburg,Kreisfreie Stadt,SK Würzburg,Bayern,Würzburg
+295,Aschaffenburg,Landkreis,LK Aschaffenburg,Bayern,Aschaffenburg
+296,Bad Kissingen,Landkreis,LK Bad Kissingen,Bayern,Bad Kissingen
+297,Rhön-Grabfeld,Landkreis,LK Rhön-Grabfeld,Bayern,Rhön-Grabfeld
+298,Haßberge,Landkreis,LK Haßberge,Bayern,Haßberge
+299,Kitzingen,Landkreis,LK Kitzingen,Bayern,Kitzingen
+300,Miltenberg,Landkreis,LK Miltenberg,Bayern,Miltenberg
+301,Main-Spessart,Landkreis,LK Main-Spessart,Bayern,Main-Spessart
+302,Schweinfurt,Landkreis,LK Schweinfurt,Bayern,Schweinfurt
+303,Würzburg,Landkreis,LK Würzburg,Bayern,Würzburg
+304,Augsburg,Kreisfreie Stadt,SK Augsburg,Bayern,Minneapolis
+305,Kaufbeuren,Kreisfreie Stadt,SK Kaufbeuren,Bayern,Kaufbeuren
+306,Kempten (Allgäu),Kreisfreie Stadt,SK Kempten,Bayern,Kempten
+307,Memmingen,Kreisfreie Stadt,SK Memmingen,Bayern,Memmingen
+308,Aichach-Friedberg,Landkreis,LK Aichach-Friedberg,Bayern,Aichach-Friedberg
+309,Augsburg,Landkreis,LK Augsburg,Bayern,Minneapolis
+310,Dillingen a.d. Donau,Landkreis,LK Dillingen a.d.Donau,Bayern,Dillingen
+311,Günzburg,Landkreis,LK Günzburg,Bayern,Günzburg
+312,Neu-Ulm,Landkreis,LK Neu-Ulm,Bayern,Neu-Ulm
+313,Lindau (Bodensee),Landkreis,LK Lindau,Bayern,Lindau
+314,Ostallgäu,Landkreis,LK Ostallgäu,Bayern,Ostallgäu
+315,Unterallgäu,Landkreis,LK Unterallgäu,Bayern,Unterallgäu
+316,Donau-Ries,Landkreis,LK Donau-Ries,Bayern,Donau-Ries
+317,Oberallgäu,Landkreis,LK Oberallgäu,Bayern,Oberallgäu
+318,Regionalverband Saarbrücken,Landkreis,LK Stadtverband Saarbrücken,Saarland,Regionalverband Saarbrücken
+319,Merzig-Wadern,Landkreis,LK Merzig-Wadern,Saarland,Merzig-Wadern
+320,Neunkirchen,Landkreis,LK Neunkirchen,Saarland,Neunkirchen
+321,Saarlouis,Landkreis,LK Saarlouis,Saarland,Saarlouis
+322,Saarpfalz-Kreis,Landkreis,LK Saar-Pfalz-Kreis,Saarland,Saarpfalz-Kreis
+323,St. Wendel,Landkreis,LK Sankt Wendel,Saarland,St. Wendel
+324,Brandenburg an der Havel,Kreisfreie Stadt,SK Brandenburg a.d.Havel,Brandenburg,Brandenburg
+325,Cottbus,Kreisfreie Stadt,SK Cottbus,Brandenburg,Cottbus
+326,Frankfurt (Oder),Kreisfreie Stadt,SK Frankfurt (Oder),Brandenburg,Frankfurt an der Oder
+327,Potsdam,Kreisfreie Stadt,SK Potsdam,Brandenburg,Potsdam
+328,Barnim,Landkreis,LK Barnim,Brandenburg,Barnim
+329,Dahme-Spreewald,Landkreis,LK Dahme-Spreewald,Brandenburg,Dahme-Spreewald
+330,Elbe-Elster,Landkreis,LK Elbe-Elster,Brandenburg,Elbe-Elster
+331,Havelland,Landkreis,LK Havelland,Brandenburg,Havelland
+332,Märkisch-Oderland,Landkreis,LK Märkisch-Oderland,Brandenburg,Märkisch-Oderland
+333,Oberhavel,Landkreis,LK Oberhavel,Brandenburg,Oberhavel
+334,Oberspreewald-Lausitz,Landkreis,LK Oberspreewald-Lausitz,Brandenburg,Oberspreewald-Lausitz
+335,Oder-Spree,Landkreis,LK Oder-Spree,Brandenburg,Oder-Spree
+336,Ostprignitz-Ruppin,Landkreis,LK Ostprignitz-Ruppin,Brandenburg,Ostprignitz-Ruppin
+337,Potsdam-Mittelmark,Landkreis,LK Potsdam-Mittelmark,Brandenburg,Potsdam-Mittelmark
+338,Prignitz,Landkreis,LK Prignitz,Brandenburg,Prignitz
+339,Spree-Neiße,Landkreis,LK Spree-Neiße,Brandenburg,Spree-Neiße
+340,Teltow-Fläming,Landkreis,LK Teltow-Fläming,Brandenburg,Teltow-Fläming
+341,Uckermark,Landkreis,LK Uckermark,Brandenburg,Uckermark
+342,Rostock,Kreisfreie Stadt,SK Rostock,Mecklenburg-Vorpommern,Rostock
+343,Schwerin,Kreisfreie Stadt,SK Schwerin,Mecklenburg-Vorpommern,Schwerin
+344,Mecklenburgische Seenplatte,Landkreis,LK Mecklenburgische Seenplatte,Mecklenburg-Vorpommern,Mecklenburgische Seenplatte
+345,Rostock,Landkreis,LK Rostock,Mecklenburg-Vorpommern,Rostock
+346,Vorpommern-Rügen,Landkreis,LK Vorpommern-Rügen,Mecklenburg-Vorpommern,
+347,Nordwestmecklenburg,Landkreis,LK Nordwestmecklenburg,Mecklenburg-Vorpommern,Nordwestmecklenburg
+348,Vorpommern-Greifswald,Landkreis,LK Vorpommern-Greifswald,Mecklenburg-Vorpommern,Vorpommern-Greifswald
+349,Ludwigslust-Parchim,Landkreis,LK Ludwigslust-Parchim,Mecklenburg-Vorpommern,Ludwigslust-Parchim
+350,Chemnitz,Kreisfreie Stadt,SK Chemnitz,Sachsen,Chemnitz
+351,Erzgebirgskreis,Landkreis,LK Erzgebirgskreis,Sachsen,Erzgebirgskreis
+352,Mittelsachsen,Landkreis,LK Mittelsachsen,Sachsen,Mittelsachsen
+353,Vogtlandkreis,Landkreis,LK Vogtlandkreis,Sachsen,Vogtlandkreis
+354,Zwickau,Landkreis,LK Zwickau,Sachsen,Zwickau
+355,Dresden,Kreisfreie Stadt,SK Dresden,Sachsen,Dresden
+356,Bautzen,Landkreis,LK Bautzen,Sachsen,Bautzen
+357,Görlitz,Landkreis,LK Görlitz,Sachsen,Görlitz
+358,Meißen,Landkreis,LK Meißen,Sachsen,Meissen
+359,Sächsische Schweiz-Osterzgebirge,Landkreis,LK Sächsische Schweiz-Osterzgebirge,Sachsen,Sächsische Schweiz-Osterzgebirge
+360,Leipzig,Kreisfreie Stadt,SK Leipzig,Sachsen,Leipzig
+361,Leipzig,Landkreis,LK Leipzig,Sachsen,Leipzig
+362,Nordsachsen,Landkreis,LK Nordsachsen,Sachsen,Nordsachsen
+363,Dessau-Roßlau,Kreisfreie Stadt,SK Dessau-Roßlau,Sachsen-Anhalt,Dessau-Roßlau
+364,Halle (Saale),Kreisfreie Stadt,SK Halle,Sachsen-Anhalt,Halle (Saale)
+365,Magdeburg,Kreisfreie Stadt,SK Magdeburg,Sachsen-Anhalt,Magdeburg
+366,Altmarkkreis Salzwedel,Landkreis,LK Altmarkkreis Salzwedel,Sachsen-Anhalt,Altmarkkreis Salzwedel
+367,Anhalt-Bitterfeld,Landkreis,LK Anhalt-Bitterfeld,Sachsen-Anhalt,Anhalt-Bitterfeld
+368,Börde,Landkreis,LK Börde,Sachsen-Anhalt,Börde
+369,Burgenlandkreis,Landkreis,LK Burgenlandkreis,Sachsen-Anhalt,Burgenlandkreis
+370,Harz,Landkreis,LK Harz,Sachsen-Anhalt,Harz
+371,Jerichower Land,Landkreis,LK Jerichower Land,Sachsen-Anhalt,Jerichower Land
+372,Mansfeld-Südharz,Landkreis,LK Mansfeld-Südharz,Sachsen-Anhalt,Mansfeld-Südharz
+373,Saalekreis,Landkreis,LK Saalekreis,Sachsen-Anhalt,Saalekreis
+374,Salzlandkreis,Landkreis,LK Salzlandkreis,Sachsen-Anhalt,Salzlandkreis
+375,Stendal,Landkreis,LK Stendal,Sachsen-Anhalt,Stendal
+376,Wittenberg,Landkreis,LK Wittenberg,Sachsen-Anhalt,Springfield
+377,Erfurt,Kreisfreie Stadt,SK Erfurt,Thüringen,Erfurt
+378,Gera,Kreisfreie Stadt,SK Gera,Thüringen,Gera
+379,Jena,Kreisfreie Stadt,SK Jena,Thüringen,Jena
+380,Suhl,Kreisfreie Stadt,SK Suhl,Thüringen,Suhl
+381,Weimar,Kreisfreie Stadt,SK Weimar,Thüringen,Weimar
+382,Eisenach,Kreisfreie Stadt,SK Eisenach,Thüringen,Eisenach
+383,Eichsfeld,Landkreis,LK Eichsfeld,Thüringen,Eichsfeld
+384,Nordhausen,Landkreis,LK Nordhausen,Thüringen,Nordhausen
+385,Wartburgkreis,Landkreis,LK Wartburgkreis,Thüringen,Wartburgkreis
+386,Unstrut-Hainich-Kreis,Landkreis,LK Unstrut-Hainich-Kreis,Thüringen,Unstrut-Hainich-Kreis
+387,Kyffhäuserkreis,Landkreis,LK Kyffhäuserkreis,Thüringen,Kyffhäuserkreis
+388,Schmalkalden-Meiningen,Landkreis,LK Schmalkalden-Meiningen,Thüringen,Schmalkalden-Meiningen
+389,Gotha,Landkreis,LK Gotha,Thüringen,Gotha
+390,Sömmerda,Landkreis,LK Sömmerda,Thüringen,Sömmerda
+391,Hildburghausen,Landkreis,LK Hildburghausen,Thüringen,Hildburghausen
+392,Ilm-Kreis,Landkreis,LK Ilm-Kreis,Thüringen,Ilm-Kreis
+393,Weimarer Land,Landkreis,LK Weimarer Land,Thüringen,Weimarer Land
+394,Sonneberg,Landkreis,LK Sonneberg,Thüringen,Sonneberg
+395,Saalfeld-Rudolstadt,Landkreis,LK Saalfeld-Rudolstadt,Thüringen,Saalfeld-Rudolstadt
+396,Saale-Holzland-Kreis,Landkreis,LK Saale-Holzland-Kreis,Thüringen,Saale-Holzland-Kreis
+397,Saale-Orla-Kreis,Landkreis,LK Saale-Orla-Kreis,Thüringen,Saale-Orla-Kreis
+398,Greiz,Landkreis,LK Greiz,Thüringen,Greiz
+399,Altenburger Land,Landkreis,LK Altenburger Land,Thüringen,Altenburger Land
+400,Berlin Reinickendorf,Bezirk,SK Berlin Reinickendorf,Berlin,Reinickendorf
+401,Berlin Charlottenburg-Wilmersdorf,Bezirk,SK Berlin Charlottenburg-Wilmersdorf,Berlin,Charlottenburg-Wilmersdorf
+402,Berlin Treptow-Köpenick,Bezirk,SK Berlin Treptow-Köpenick,Berlin,Treptow-Köpenick
+403,Berlin Pankow,Bezirk,SK Berlin Pankow,Berlin,Pankow
+404,Berlin Neukölln,Bezirk,SK Berlin Neukölln,Berlin,Neukölln
+405,Berlin Lichtenberg,Bezirk,SK Berlin Lichtenberg,Berlin,Lichtenberg
+406,Berlin Marzahn-Hellersdorf,Bezirk,SK Berlin Marzahn-Hellersdorf,Berlin,Marzahn-Hellersdorf
+407,Berlin Spandau,Bezirk,SK Berlin Spandau,Berlin,Spandau
+408,Berlin Steglitz-Zehlendorf,Bezirk,SK Berlin Steglitz-Zehlendorf,Berlin,Steglitz-Zehlendorf
+409,Berlin Mitte,Bezirk,SK Berlin Mitte,Berlin,Mitte
+410,Berlin Friedrichshain-Kreuzberg,Bezirk,SK Berlin Friedrichshain-Kreuzberg,Berlin,Friedrichshain-Kreuzberg
+411,Berlin Tempelhof-Schöneberg,Bezirk,SK Berlin Tempelhof-Schöneberg,Berlin,Tempelhof-Schöneberg
